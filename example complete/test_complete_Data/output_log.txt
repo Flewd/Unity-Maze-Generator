@@ -1,0 +1,14 @@
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.2723]
+    Renderer: NVIDIA GeForce GTX 660 Ti
+    Vendor:   NVIDIA
+    VRAM:     1990 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 DF24=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<I> Initializing (RawInput).
+<RI> Input initialized.
+Non platform assembly: data-08060048 (this message is harmless)
+Non platform assembly: data-032B6FC0 (this message is harmless)
+Non platform assembly: data-032BAE30 (this message is harmless)
+Platform assembly: C:\Users\mike\Desktop\testproject_start\example complete\test_complete_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\mike\Desktop\testproject_start\example complete\test_complete_Data\Managed\Boo.Lang.dll (this message is harmless)
